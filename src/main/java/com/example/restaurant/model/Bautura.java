@@ -1,6 +1,6 @@
-package com.example.restaurant;
+package com.example.restaurant.model;
 
-public class Bautura extends Produs {
+public final class Bautura extends Produs {
     private int volum;
 
     public Bautura(String nume, double pret, int volum) {

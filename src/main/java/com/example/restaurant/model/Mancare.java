@@ -1,6 +1,6 @@
-package com.example.restaurant;
+package com.example.restaurant.model;
 
-public class Mancare extends Produs {
+public final class Mancare extends Produs {
     private int gramaj;
 
     public Mancare(String nume, double pret, int gramaj) {
