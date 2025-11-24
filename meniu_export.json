@@ -1,0 +1,74 @@
+{
+  "FEL_PRINCIPAL": [
+    {
+      "gramaj": 450,
+      "nume": "Pizza Margherita",
+      "pret": 45.0,
+      "categorie": "FEL_PRINCIPAL"
+    },
+    {
+      "gramaj": 400,
+      "nume": "Paste Carbonara",
+      "pret": 52.5,
+      "categorie": "FEL_PRINCIPAL"
+    },
+    {
+      "gramaj": 300,
+      "nume": "Steak",
+      "pret": 120.0,
+      "categorie": "FEL_PRINCIPAL"
+    }
+  ],
+  "BAUTURA_ALCOOLICA": [
+    {
+      "volum": 150,
+      "nume": "Vin roșu",
+      "pret": 35.0,
+      "categorie": "BAUTURA_ALCOOLICA"
+    }
+  ],
+  "APERITIV": [
+    {
+      "gramaj": 250,
+      "nume": "Salata vegetariană",
+      "pret": 32.0,
+      "categorie": "APERITIV"
+    }
+  ],
+  "PIZZA": [
+    {
+      "blat": "Subțire",
+      "sos": "Roșu",
+      "toppinguri": [
+        "Mozzarella",
+        "Ciuperci",
+        "Ananas"
+      ],
+      "nume": "Pizza Custom",
+      "pret": 55.0,
+      "categorie": "PIZZA"
+    }
+  ],
+  "BAUTURA_RACORITOARE": [
+    {
+      "volum": 400,
+      "nume": "Limonada",
+      "pret": 15.0,
+      "categorie": "BAUTURA_RACORITOARE"
+    },
+    {
+      "volum": 500,
+      "nume": "Apa Plata",
+      "pret": 8.0,
+      "categorie": "BAUTURA_RACORITOARE"
+    }
+  ],
+  "DESERT": [
+    {
+      "gramaj": 120,
+      "nume": "Tiramisu",
+      "pret": 28.0,
+      "categorie": "DESERT"
+    }
+  ]
+}
